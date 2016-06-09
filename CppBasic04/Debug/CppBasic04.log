@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\programação\github\cppbasic04\cppbasic04\main.cpp(41): error C2143: syntax error : missing ';' before '}'
+  functions.cpp
+  Generating Code...
+d:\programação\github\cppbasic04\cppbasic04\functions.cpp(16): error C4716: 'potention' : must return a value
+d:\programação\github\cppbasic04\cppbasic04\functions.cpp(11): error C4716: 'factorial' : must return a value
